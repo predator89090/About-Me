@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @predator89090
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Java Core, Git, Maven, Gradle, SQL and Spring
